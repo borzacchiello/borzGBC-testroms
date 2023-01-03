@@ -1,2 +1,4 @@
 *.result.png
 *.sav
+*.DS_Store
+
